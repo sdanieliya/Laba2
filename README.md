@@ -1,3 +1,3 @@
 Вторая лабораторная работа по git
 
-sdanieliya made pull request and commit
+sdanieliya(Столетова Даниэлия) made pull request and commit
